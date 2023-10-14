@@ -1,3 +1,5 @@
+![bg][image]
+
 ### I don't know what I'm doing
 
 🙋‍♂️ I'm Ernest Marcinko  
@@ -10,9 +12,7 @@
 🎒 [npm][npm] **|** 
 📸 [instagram][instagram]
 
-![bg][image]
-
-[image]: https://ernestmarcinko.com/img/ernest-marcinko-pixelated-opaque.png
+[image]: https://raw.githubusercontent.com/ernestmarcinko/ernestmarcinko/master/bg.png
 [website]: https://ernestmarcinko.com
 [twitter]: https://twitter.com/ernest_marcinko
 [youtube]: https://www.youtube.com/@ernestmarcinko

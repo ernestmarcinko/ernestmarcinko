@@ -12,7 +12,7 @@
 🎒 [npm][npm] **|** 
 📸 [instagram][instagram]
 
-[image]: https://raw.githubusercontent.com/ernestmarcinko/ernestmarcinko/master/bg.png
+[image]: https://raw.githubusercontent.com/ernestmarcinko/ernestmarcinko/main/bg.png
 [website]: https://ernestmarcinko.com
 [twitter]: https://twitter.com/ernest_marcinko
 [youtube]: https://www.youtube.com/@ernestmarcinko

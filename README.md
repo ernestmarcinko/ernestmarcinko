@@ -14,8 +14,8 @@
 
 ![imagebottom][imagebottom]
 
-[imagetop]: https://raw.githubusercontent.com/ernestmarcinko/ernestmarcinko/main/bgtop.png
-[imagebottom]: https://raw.githubusercontent.com/ernestmarcinko/ernestmarcinko/main/bgbottom.png
+[imagetop]: https://raw.githubusercontent.com/ernestmarcinko/ernestmarcinko/main/imagetop.png
+[imagebottom]: https://raw.githubusercontent.com/ernestmarcinko/ernestmarcinko/main/imagebottom.png
 [website]: https://ernestmarcinko.com
 [twitter]: https://twitter.com/ernest_marcinko
 [youtube]: https://www.youtube.com/@ernestmarcinko
